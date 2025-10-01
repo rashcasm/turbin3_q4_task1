@@ -1,0 +1,5 @@
+Why do you think Solana has chosen during most of its history to use Typescript for Client side development?
+
+- type safety makes it safer to deploy on-chain
+- more structured and safer way to build client-side
+- it just prevents errors while dealing with accounts
