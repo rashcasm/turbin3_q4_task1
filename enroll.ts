@@ -151,4 +151,6 @@ console.log(`Success! Check out your TX here:
 https://explorer.solana.com/tx/${signatureSubmit}?cluster=devnet`);
 } catch (e) {
 console.error(`Oops, something went wrong: ${e}`);
+
 }
+
